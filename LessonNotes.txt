@@ -1,0 +1,10 @@
+If there are issues with jupyter not connecting: condo update jupyter in anaconda prompt. 
+
+Lessons:
+1) Python Basics
+2) Processing Data from a file
+3) Reading data from a file using Pandas
+4) Extracting Rows and Columns
+5) Data Aggregation using Pandas
+6) Joining Pandas Dataframes
+7) Wide and long data formats
