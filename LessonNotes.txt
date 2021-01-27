@@ -1,5 +1,8 @@
 If there are issues with jupyter not connecting: condo update jupyter in anaconda prompt. 
 
+Changeing pathway:
+https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder
+
 Lessons:
 1) Python Basics
 2) Processing Data from a file
